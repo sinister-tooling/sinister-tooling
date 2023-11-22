@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sinister-tooling
-- 👀 I working a penetration tester and develop basic tooling to automate parts of my job, mostly in python (I'm not a proficient coder, my backgound is in techsupport/infrastructure management etc).
+- 👀 I'm working a penetration tester and develop basic tooling to automate parts of my job, mostly in python (I'm not a proficient coder, my backgound is in techsupport/infrastructure management etc).
 - 🌱 Everyday is a learning day.
 - 💞️ I’m looking to collaborate on anything?
 - 📫 Reach me through github.
